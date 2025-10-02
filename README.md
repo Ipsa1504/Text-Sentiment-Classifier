@@ -1,12 +1,12 @@
-# Sentiment Analysis Project
+# Text-Sentiment-Classifier Project
 
-A beginner-friendly Python project that performs **sentiment analysis** on text data using machine learning techniques. This project covers text preprocessing, sentiment classification, and visualization of results. It’s ideal for anyone starting out with Natural Language Processing (NLP) and machine learning.
+A beginner-friendly Python project that performs **Text-Sentiment-Classifier** on text data using machine learning techniques. This project covers text preprocessing, sentiment classification, and visualization of results. It’s ideal for anyone starting out with Natural Language Processing (NLP) and machine learning.
 
 ---
 
 ## Project Overview
 
-Sentiment analysis helps determine the sentiment or emotion behind a piece of text — classifying it as positive, negative, or neutral. This project implements this using Python and common NLP libraries, focusing on clarity and simplicity.
+Text-Sentiment-Classifier helps determine the sentiment or emotion behind a piece of text — classifying it as positive, negative, or neutral. This project implements this using Python and common NLP libraries, focusing on clarity and simplicity.
 
 ---
 
@@ -31,7 +31,7 @@ Sentiment analysis helps determine the sentiment or emotion behind a piece of te
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/yourusername/Text-Sentiment-Classifier.git
 
 2. Navigate into the project directory:
 
@@ -82,5 +82,3 @@ Sentiment analysis helps determine the sentiment or emotion behind a piece of te
 
 3.Enhance preprocessing with advanced NLP techniques
 
-##Author
-Stuti
